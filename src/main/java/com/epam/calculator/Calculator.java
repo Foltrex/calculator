@@ -6,7 +6,7 @@ public class Calculator {
         return first + second;
     }
 
-    public int difference(int first, int second) {
+    public int subtract(int first, int second) {
         return first - second;
     }
 
